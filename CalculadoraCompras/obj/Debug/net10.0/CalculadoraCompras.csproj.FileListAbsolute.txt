@@ -1,0 +1,5 @@
+C:\19533\Csharp\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\19533\Csharp\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.AssemblyInfoInputs.cache
+C:\19533\Csharp\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.AssemblyInfo.cs
+C:\19533\Csharp\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.csproj.CoreCompileInputs.cache
+C:\19533\Csharp\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.sourcelink.json
